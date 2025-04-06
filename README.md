@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm Emre</h1>
-<h3>A passionate frontend developer from Turkey.</h3>
+<h3>A passionate frontend developer from Türkiye</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
